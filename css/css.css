@@ -1,0 +1,112 @@
+.container {
+    max-width: 1020px;
+    margin: auto;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar__ul {
+    
+    display: flex;
+    align-items: flex-end;
+}
+  
+  .navbar__li-padding {
+    padding: 0 14px;
+  }
+  
+  .navbar__ul-style {
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+  }
+  .header{
+    background-image: url(../IMG/dsfsdfsdfds.png);
+    background-position: center top;
+    max-height: 490px;
+    background-repeat: no-repeat;
+  }
+  .header__content{
+    display: flex;
+    justify-content: space-around;
+  }
+  .header__iphone{
+    padding-bottom: 20px;
+    padding-top: 35px;
+  }
+  .header__leftside{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .header__allText{
+    max-width: 450px;
+    max-height: 125px;
+    color: #FFF;
+  }
+  .header__smallText{
+    font-size: 26px;
+    padding-top: 3%;
+  }
+  .header__heading{
+    font-size: 46px;
+  }
+  .header__bytton{
+    padding: 0;
+    margin: 30px 10px;
+  }
+  .header__bytton-img{
+    max-width: 130px;
+
+  }
+  .buylist{
+    max-width: 927px;
+    max-height: 354px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .smalcontainer{
+    max-width: 330px;
+    text-align: center;
+    margin: 50px;
+  }
+  .buylist__img{
+    padding-top: 20%
+    padding-bottom: 12%;
+  }
+  .buylist__h1{
+    color: #1818fd;
+    font-size: 32px;
+    padding-bottom: 3%;
+  }
+  .buylist__p{
+    font-size: 20px;
+  }
+  .midle{
+  display: flex;
+  justify-content: space-around;
+  margin: 5px;
+  padding: 20px;
+  }
+ .midle__container{
+   max-width: 50%;
+   margin: 5%;
+ }
+ .midle__h3{
+   display: flex;
+   justify-content: flex-start;
+   font-size: 46px;
+   margin-bottom: 7%;
+   text-align: center;
+ }
+.midel__h4{
+  font-size: 32px;
+}
+.midel__pp{
+  margin: 20px;
+  font-size: 16px;
+}
+  
